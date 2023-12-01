@@ -4,15 +4,13 @@
 
 ## Overview
 
-缶サット班が作成した機体のプログラムです。
+缶サット班が作成した機体のプログラムを記録したものです。
 参考になれば幸いです。
 
-## Reference
-
-
-## Author
+## Link
 
 [X(twitter)](https://twitter.com/wasa_rocket)
 
-## Licence
+[YouTube](https://www.youtube.com/user/wasarocketpro/videos)
 
+[instagram](https://www.instagram.com/wasa_rocket_pro/)
