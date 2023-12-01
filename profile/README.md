@@ -1,6 +1,6 @@
 # WASA 缶サット班
 
-image or gif
+![logo](https://github.com/wasa-cansat/.github/blob/main/images/%E3%83%AD%E3%82%B4%E9%80%9A%E5%B8%B8%20(2).JPG?raw=true)
 
 ## Overview
 
