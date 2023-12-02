@@ -7,13 +7,13 @@
 缶サット班が作成した機体のプログラムを記録したものです。
 参考になれば幸いです。
 
+## Licence
+
+[MIT](https://github.com/wasa-cansat/.github/blob/main/LICENSE)
+
 ## Link
 
 -[website](https://wasarocketpj.wixsite.com/home)
 -[X(twitter)](https://twitter.com/wasa_rocket)
 -[YouTube](https://www.youtube.com/user/wasarocketpro/videos)
 -[instagram](https://www.instagram.com/wasa_rocket_pro/)
-
-## Licence
-
-[MIT](https://github.com/wasa-cansat/.github/blob/main/LICENSE)
