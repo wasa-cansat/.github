@@ -9,10 +9,10 @@
 
 ## Link
 
-[website](https://wasarocketpj.wixsite.com/home)
-[X(twitter)](https://twitter.com/wasa_rocket)
-[YouTube](https://www.youtube.com/user/wasarocketpro/videos)
-[instagram](https://www.instagram.com/wasa_rocket_pro/)
+-[website](https://wasarocketpj.wixsite.com/home)
+-[X(twitter)](https://twitter.com/wasa_rocket)
+-[YouTube](https://www.youtube.com/user/wasarocketpro/videos)
+-[instagram](https://www.instagram.com/wasa_rocket_pro/)
 
 ## Licence
 
