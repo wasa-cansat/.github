@@ -13,7 +13,7 @@
 
 ## Link
 
--[website]([https://wasarocketpj.wixsite.com/home](https://wasa-rocket.vercel.app/))
+-[website](https://wasa-rocket.vercel.app/)
 
 -[X(twitter)](https://twitter.com/wasa_rocket)
 
